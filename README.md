@@ -20,3 +20,9 @@ Set Up Your Account: Follow the on-screen instructions to set up your account, c
 
 ## Overview of Microsoft 365 Defender Portal
 ![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/956bf7e3-25e7-4214-9761-9b4cee0757d8)
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/5a8af4d4-7701-45e4-bc70-130b840b47fd)
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/c203d0c8-58da-446d-a4fe-c4d4ceda1645)
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/15cea538-fd7d-43b2-9f8f-357f7dbde930)
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/ce7b0ba3-7164-447e-96de-55aaa254fcc5)
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/676ce42d-3399-4f43-ac6b-be5d0319ebad)
+
