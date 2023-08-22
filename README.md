@@ -40,7 +40,10 @@ Check Alerts: Monitor your Microsoft 365 Defender console for any generated aler
 
 Review Alert Details: Open the generated alert to review the details of the detected impossible travel. You'll likely see information about the user account, the detected locations, and the time of login.
 ![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/68cb2075-42ca-43c1-9425-3b7e8af53b5f)
-I trigger the event by installing Tor browser on my machine, then i try signing the same user by refreshing it as it is going to update my location to different country such as russia, china, usa and more 
+I trigger the event by installing Tor browser on my machine, then i try signing the same user by refreshing it as it is going to update my location to different country such as russia, china, usa and more.
+Then i can login into my microsoft 365 Defender portal, the Tor activities will prompt an incident into the portal which can be divided into event
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/20c055e1-4afd-47be-aa89-4871d730ef24)
+
 
 ## SECURITY ADVISE FOR THE FIRST LAB
 Respond Appropriately: Depending on your organization's policies and the severity of the situation, you can take actions such as reviewing the user's account activity, notifying the user, resetting passwords, or initiating further investigation.
