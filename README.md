@@ -25,3 +25,20 @@ Set Up Your Account: Follow the on-screen instructions to set up your account, c
 ![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/676ce42d-3399-4f43-ac6b-be5d0319ebad)
 This is few of the features of microsoft 365 Defender portal
 
+##  TOR (The Onion Router) impossible travel alert in a security 
+Access Microsoft 365 Defender Console: Log in to your Microsoft 365 Defender admin console using your administrator account.
+
+Navigate to Security Settings: Locate the section or settings related to security, threat management, or advanced threat protection.
+
+Enable Impossible Travel Detection: If not already enabled, look for settings related to detecting impossible travel or unusual login behavior. This might involve configuring conditions such as detecting logins from geographically distant locations within a short time frame.
+
+Use TOR to Simulate Travel: Download and use a TOR browser or VPN service to simulate logging in from geographically distant locations. Log in to your Microsoft 365 account from one location and then quickly access it from another location using the TOR browser or VPN.
+
+Wait for Detection: The system will process the logins and might detect the unusual travel pattern based on the conditions you've set. Detection might not be immediate and could take some time.
+
+Check Alerts: Monitor your Microsoft 365 Defender console for any generated alerts related to impossible travel or unusual login behavior.
+
+Review Alert Details: Open the generated alert to review the details of the detected impossible travel. You'll likely see information about the user account, the detected locations, and the time of login.
+
+## SECURITY ADVISE FOR THE FIRST LAB
+Respond Appropriately: Depending on your organization's policies and the severity of the situation, you can take actions such as reviewing the user's account activity, notifying the user, resetting passwords, or initiating further investigation.
