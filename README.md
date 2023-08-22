@@ -17,3 +17,5 @@ Provide Payment Information: Some free trials might require you to provide payme
 Verify Your Identity: Microsoft may require you to verify your identity through email or phone verification.
 
 Set Up Your Account: Follow the on-screen instructions to set up your account, choose your settings, and configure your Microsoft 365 services.
+## Overview of Microsoft 365 Defender Portal
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/956bf7e3-25e7-4214-9761-9b4cee0757d8)
