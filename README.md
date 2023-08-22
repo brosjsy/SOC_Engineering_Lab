@@ -43,6 +43,7 @@ Review Alert Details: Open the generated alert to review the details of the dete
 I trigger the event by installing Tor browser on my machine, then i try signing the same user by refreshing it as it is going to update my location to different country such as russia, china, usa and more.
 Then i can login into my microsoft 365 Defender portal, the Tor activities will prompt an incident into the portal which can be divided into event
 ![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/20c055e1-4afd-47be-aa89-4871d730ef24)
+![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/d3b6cdde-4537-41c2-8220-adbe8179c489)
 
 
 ## SECURITY ADVISE FOR THE FIRST LAB
