@@ -3,7 +3,7 @@ Explore a personalized Cybersecurity Home Lab, honing SOC, threat hunting, and d
 ![image](https://github.com/brosjsy/SOC_Engineering_Lab/assets/97712446/ffda2aea-a893-4b2c-806f-afc3ab67d7f6)
 
 
-Above are the skill i gained during the Home lab
+#Above are the skill i gained during the Home lab
 # Step by step process of creating Microsoft 365 Etrial Account 
 Visit the Microsoft 365 Website: Go to the official Microsoft 365 website using your web browser.
 
